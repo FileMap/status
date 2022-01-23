@@ -1,0 +1,31 @@
+owner: FileMap
+repo: status
+
+sites:
+  - name: Website
+    url: https://filemap.net/
+  - name: Production API
+    url: https://api.filemap.net/api/v1/
+  - name: Staging API
+    url: https://api-staging.filemap.net/api/v1/
+  - name: Development API
+    url: https://api-dev.filemap.net/api/v1/
+
+assignees:
+  - oznakn
+
+status-website:
+  cname: status.filemap.net
+  logoUrl: https://filemap.net/logo512.png
+  name: FileMap
+  introTitle: "**FileMap** is a map based visual file manager."
+  introMessage: This is FileMap's real-time status page.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "filemap-bot"
+  commitAuthorEmail: "86915526+filemap-bot@users.noreply.github.com"
