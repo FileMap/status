@@ -29,12 +29,3 @@ status-website:
 commitMessages:
   commitAuthorName: "filemap-bot"
   commitAuthorEmail: "86915526+filemap-bot@users.noreply.github.com"
-
-workflowSchedule:
-  graphs: "0 0,12 * * *"
-  responseTime: "0 23,11 * * *"
-  staticSite: "0 1,13 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/3 * * * *"
