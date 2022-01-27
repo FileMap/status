@@ -1,7 +1,7 @@
 url: https://api-dev.filemap.net/api/v1/
-status: up
-code: 200
-responseTime: 362
-lastUpdated: 2022-01-27T00:15:25.167Z
+status: down
+code: 503
+responseTime: 80
+lastUpdated: 2022-01-27T15:24:36.914Z
 startTime: Sun Jan 23 2022 15:52:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
