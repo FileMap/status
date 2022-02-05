@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/filemap.net",
     "slug": "website",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 262,
-    "timeDay": 172,
-    "timeWeek": 212,
-    "timeMonth": 262,
-    "timeYear": 262,
-    "dailyMinutesDown": {
-      "2022-02-04": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 256,
+    "timeDay": 163,
+    "timeWeek": 181,
+    "timeMonth": 256,
+    "timeYear": 256,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 389,
-    "timeWeek": 460,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "time": 449,
+    "timeDay": 376,
+    "timeWeek": 464,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 356,
-    "timeWeek": 456,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 428,
+    "timeDay": 335,
+    "timeWeek": 449,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 504,
-    "timeWeek": 495,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "time": 449,
+    "timeDay": 485,
+    "timeWeek": 489,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   }
 ]
