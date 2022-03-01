@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 214,
+    "time": 390,
+    "timeDay": 225,
     "timeWeek": 202,
-    "timeMonth": 418,
-    "timeYear": 394,
+    "timeMonth": 433,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/api.filemap.net",
     "slug": "production-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 487,
-    "timeDay": 461,
-    "timeWeek": 517,
-    "timeMonth": 498,
-    "timeYear": 487,
-    "dailyMinutesDown": {
-      "2022-02-28": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 491,
+    "timeDay": 481,
+    "timeWeek": 524,
+    "timeMonth": 507,
+    "timeYear": 491,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging API",
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/api-staging.filemap.net",
     "slug": "staging-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 475,
-    "timeDay": 473,
-    "timeWeek": 529,
-    "timeMonth": 493,
-    "timeYear": 475,
-    "dailyMinutesDown": {
-      "2022-02-28": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 479,
+    "timeDay": 470,
+    "timeWeek": 526,
+    "timeMonth": 501,
+    "timeYear": 479,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Development API",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 548,
-    "timeWeek": 516,
-    "timeMonth": 506,
-    "timeYear": 486,
+    "time": 488,
+    "timeDay": 553,
+    "timeWeek": 517,
+    "timeMonth": 510,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   }
 ]
