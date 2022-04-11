@@ -25,19 +25,19 @@
     "url": "https://api.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api.filemap.net",
     "slug": "production-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 590,
-    "timeWeek": 562,
-    "timeMonth": 555,
-    "timeYear": 523,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 594,
+    "timeDay": 3643,
+    "timeWeek": 1329,
+    "timeMonth": 741,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2022-04-11": 0
+      "2022-04-11": 14
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://api-staging.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api-staging.filemap.net",
     "slug": "staging-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 665,
-    "timeWeek": 588,
-    "timeMonth": 555,
-    "timeYear": 516,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 534,
+    "timeDay": 1330,
+    "timeWeek": 764,
+    "timeMonth": 600,
+    "timeYear": 534,
     "dailyMinutesDown": {
-      "2022-04-11": 0
+      "2022-04-11": 13
     }
   },
   {
