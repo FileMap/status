@@ -4,18 +4,20 @@
     "url": "https://filemap.net/",
     "icon": "https://favicons.githubusercontent.com/filemap.net",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 175,
-    "timeWeek": 163,
-    "timeMonth": 216,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 376,
+    "timeDay": 5295,
+    "timeWeek": 1438,
+    "timeMonth": 459,
+    "timeYear": 376,
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   },
   {
     "name": "Production API",
