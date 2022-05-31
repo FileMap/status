@@ -4,19 +4,19 @@
     "url": "https://filemap.net/",
     "icon": "https://favicons.githubusercontent.com/filemap.net",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 211,
-    "timeWeek": 209,
-    "timeMonth": 847,
-    "timeYear": 475,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 473,
+    "timeDay": 215,
+    "timeWeek": 210,
+    "timeMonth": 829,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-05-31": 0
+      "2022-05-31": 35
     }
   },
   {
