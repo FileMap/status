@@ -4,71 +4,79 @@
     "url": "https://filemap.net/",
     "icon": "https://favicons.githubusercontent.com/filemap.net",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 202,
-    "timeWeek": 256,
-    "timeMonth": 261,
-    "timeYear": 452,
-    "dailyMinutesDown": {}
+    "time": 450,
+    "timeDay": 175,
+    "timeWeek": 242,
+    "timeMonth": 258,
+    "timeYear": 450,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Production API",
     "url": "https://api.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api.filemap.net",
     "slug": "production-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 414,
-    "timeWeek": 504,
-    "timeMonth": 536,
-    "timeYear": 562,
-    "dailyMinutesDown": {}
+    "time": 559,
+    "timeDay": 276,
+    "timeWeek": 459,
+    "timeMonth": 523,
+    "timeYear": 559,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Staging API",
     "url": "https://api-staging.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api-staging.filemap.net",
     "slug": "staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 402,
-    "timeWeek": 520,
-    "timeMonth": 555,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "time": 525,
+    "timeDay": 234,
+    "timeWeek": 463,
+    "timeMonth": 539,
+    "timeYear": 525,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Development API",
     "url": "https://api-dev.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api-dev.filemap.net",
     "slug": "development-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 493,
-    "timeWeek": 532,
-    "timeMonth": 530,
-    "timeYear": 513,
-    "dailyMinutesDown": {}
+    "time": 510,
+    "timeDay": 281,
+    "timeWeek": 474,
+    "timeMonth": 515,
+    "timeYear": 510,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   }
 ]
