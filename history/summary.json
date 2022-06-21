@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/filemap.net",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 525,
     "timeDay": 8031,
     "timeWeek": 1531,
     "timeMonth": 636,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api.filemap.net",
     "slug": "production-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 558,
-    "timeDay": 501,
-    "timeWeek": 464,
-    "timeMonth": 513,
+    "timeDay": 532,
+    "timeWeek": 472,
+    "timeMonth": 514,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 16
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/api-staging.filemap.net",
     "slug": "staging-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 523,
     "timeDay": 262,
     "timeWeek": 434,
     "timeMonth": 512,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 16
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/api-dev.filemap.net",
     "slug": "development-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 506,
     "timeDay": 228,
     "timeWeek": 409,
     "timeMonth": 486,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 16
     }
   }
 ]
