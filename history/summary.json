@@ -4,19 +4,19 @@
     "url": "https://filemap.net/",
     "icon": "https://favicons.githubusercontent.com/filemap.net",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 521,
-    "timeDay": 4105,
-    "timeWeek": 1338,
-    "timeMonth": 613,
-    "timeYear": 521,
+    "time": 520,
+    "timeDay": 3340,
+    "timeWeek": 1267,
+    "timeMonth": 605,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2022-06-21": 47
+      "2022-06-21": 49
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "production-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 608,
     "timeDay": 2640,
@@ -36,7 +36,7 @@
     "timeMonth": 737,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 16
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api-staging.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api-staging.filemap.net",
     "slug": "staging-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 520,
-    "timeDay": 268,
-    "timeWeek": 411,
-    "timeMonth": 499,
-    "timeYear": 520,
+    "time": 521,
+    "timeDay": 346,
+    "timeWeek": 428,
+    "timeMonth": 503,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-06-21": 47
+      "2022-06-21": 49
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://api-dev.filemap.net/api/v1/",
     "icon": "https://favicons.githubusercontent.com/api-dev.filemap.net",
     "slug": "development-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 504,
-    "timeDay": 258,
-    "timeWeek": 391,
+    "timeDay": 303,
+    "timeWeek": 397,
     "timeMonth": 476,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-06-21": 31
+      "2022-06-21": 32
     }
   }
 ]
