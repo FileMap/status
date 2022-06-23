@@ -10,11 +10,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 519,
-    "timeDay": 286,
-    "timeWeek": 1257,
-    "timeMonth": 609,
-    "timeYear": 519,
+    "time": 517,
+    "timeDay": 179,
+    "timeWeek": 1255,
+    "timeMonth": 608,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2022-06-21": 49
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 609,
-    "timeDay": 655,
-    "timeWeek": 1103,
-    "timeMonth": 743,
-    "timeYear": 609,
+    "time": 607,
+    "timeDay": 401,
+    "timeWeek": 1102,
+    "timeMonth": 737,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2022-06-21": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 522,
-    "timeDay": 674,
-    "timeWeek": 443,
-    "timeMonth": 511,
-    "timeYear": 522,
+    "time": 521,
+    "timeDay": 434,
+    "timeWeek": 445,
+    "timeMonth": 506,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2022-06-21": 49
     }
@@ -66,17 +66,16 @@
     "slug": "development-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 502,
-    "timeDay": 413,
-    "timeWeek": 400,
-    "timeMonth": 474,
-    "timeYear": 502,
+    "time": 501,
+    "timeDay": 359,
+    "timeWeek": 392,
+    "timeMonth": 468,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2022-06-22": 6,
       "2022-06-21": 22
     }
   }
