@@ -4,18 +4,19 @@
     "url": "https://filemap.net/",
     "icon": "https://favicons.githubusercontent.com/filemap.net",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
-    "time": 482,
-    "timeDay": 181,
-    "timeWeek": 404,
-    "timeMonth": 532,
-    "timeYear": 482,
+    "time": 480,
+    "timeDay": 140,
+    "timeWeek": 410,
+    "timeMonth": 525,
+    "timeYear": 480,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-06-30": 84,
       "2022-06-29": 17
     }
@@ -33,7 +34,7 @@
     "uptimeYear": "99.96%",
     "time": 575,
     "timeDay": 404,
-    "timeWeek": 509,
+    "timeWeek": 539,
     "timeMonth": 593,
     "timeYear": 575,
     "dailyMinutesDown": {
@@ -54,7 +55,7 @@
     "uptimeYear": "99.96%",
     "time": 499,
     "timeDay": 360,
-    "timeWeek": 438,
+    "timeWeek": 457,
     "timeMonth": 430,
     "timeYear": 499,
     "dailyMinutesDown": {
@@ -75,7 +76,7 @@
     "uptimeYear": "99.96%",
     "time": 482,
     "timeDay": 414,
-    "timeWeek": 433,
+    "timeWeek": 435,
     "timeMonth": 414,
     "timeYear": 482,
     "dailyMinutesDown": {
